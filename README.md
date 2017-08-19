@@ -51,3 +51,7 @@ If you have the Anaconda distribution of **Python 3** installed, then run the co
     $ jupyter notebook
 
 Your browser will open to an index page where you can click on a notebook to run it.
+
+### Credits
+
+This tutorial is inspired by the previous offerings of this tutorial at EuroSciPy 2016, SciPy 2015 and Eric Ma's tutorial Network Analysis made Simple https://github.com/ericmjl/Network-Analysis-Made-Simple
