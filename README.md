@@ -1,4 +1,5 @@
-# PyConPL 2017 NetworkX
+# PyConPL 2017 NetworkX [NOT MAINTAINED]
+# Check https://github.com/MridulS/pydata-networkx for the maintained version of this tutorial
 
 ### Set Up
 
